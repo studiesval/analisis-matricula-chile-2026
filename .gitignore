@@ -1,0 +1,13 @@
+# Bases de datos
+datos/
+*.csv
+*.zip
+
+# Archivos de sesión de R
+.RData
+.Rhistory
+.Rproj.user/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
